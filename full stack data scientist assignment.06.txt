@@ -1,0 +1,39 @@
+1.
+ An escape character is a backslash or followed by the character you want to insert.
+2.
+\n is for vertical tab . It takes the cursor to next line.
+
+\t is for horizontal tab.
+
+3.
+By using the syntax "\\" within the string literal to represent a single backslash.
+4.
+The single quote in Howl's is fine because it can be used to double quotes and to mark the beginning and end of the string.
+5.
+Multiline strings allow  to use newlines in strings without the \n escape character.
+6.
+
+'e'
+
+'Hello'
+
+'Hello'
+
+'lo world!
+7.
+'HELLO'
+
+True
+
+'hello'
+8.
+
+['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']
+
+'There-can-be-only-one.
+9.
+The rjust(), ljust(), and center() string methods, respectively.
+10.
+The lstrip() and rstrip() methods remove whitespace from the left and right ends of a string, respectively.
+
+                              

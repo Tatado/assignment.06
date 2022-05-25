@@ -1,0 +1,19 @@
+1.
+The checked exception, the error and the runtime exception.
+2.
+ If we fail to do this, it will result in a compilation error.
+3.
+If some suspicious code that may raise an exception, 
+IT can defend the program by placing the suspicious code in a try: block.
+ After the try: block, include an except: statement, 
+followed by a block of code which handles the problem as elegantly as possible.
+4.
+exception BaseException. This is the base class for all built-in exceptions. ...
+exception Exception. This is the base class for all built-in non-system-exiting exceptions. 
+5.
+The statements in the finally block will always be executed, whether an exception is thrown or not. 
+This clause is used to close the resources used in a code.
+6.
+
+
+
